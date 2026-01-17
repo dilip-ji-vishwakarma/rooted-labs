@@ -1,0 +1,8 @@
+NEXT_PUBLIC_CLIENT_NAME=pioneer_fresh
+NEXT_PUBLIC_API_BASE_URL=https://nishify-backend-skill-om-d344ad0d2073.herokuapp.com/api
+NEXT_PUBLIC_KC_REALM=syskill
+NEXT_PUBLIC_CLIENT_ID=syskill-backend
+NEXT_PUBLIC_KC_BASE=https://nishify-keycloak-app-ca1bd1ba8892.herokuapp.com
+
+
+
